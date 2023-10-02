@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CensorLibrary", "CensorLibrary\CensorLibrary.csproj", "{3160DDAC-4333-4E73-BD36-2E709557DFE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CensorLibraryTest", "CensorLibraryTest\CensorLibraryTest.csproj", "{2C00A2ED-6045-4C24-988A-5562B84E98AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3160DDAC-4333-4E73-BD36-2E709557DFE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3160DDAC-4333-4E73-BD36-2E709557DFE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3160DDAC-4333-4E73-BD36-2E709557DFE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3160DDAC-4333-4E73-BD36-2E709557DFE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C00A2ED-6045-4C24-988A-5562B84E98AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C00A2ED-6045-4C24-988A-5562B84E98AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C00A2ED-6045-4C24-988A-5562B84E98AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C00A2ED-6045-4C24-988A-5562B84E98AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB8077BF-30E1-491B-988A-EA7039777CCB}
+	EndGlobalSection
+EndGlobal
