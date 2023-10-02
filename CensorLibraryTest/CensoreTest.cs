@@ -21,9 +21,9 @@ namespace CensorLibraryTest
         [DataRow("", "")]
         public void alltest(string textstring, string textcensore)
         {
-           
+            //act
             string actual = CensoreClass.Censore(textstring);
-
+            //assert
             Console.WriteLine($"{textstring}-{actual}");
             Assert.AreEqual(textcensore, actual);
 
